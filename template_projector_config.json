@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/Zishanm/DataNCS/main/embeddings(4).tsv?token=AFMCZSCDEV7ANPWIM2VI4QDABGYU6",
-      "metadataPath": "https://raw.githubusercontent.com/Zishanm/DataNCS/main/embeddingsmMta(3).tsv?token=AFMCZSDNQPTULPCJ745YEKDABGYY6"
+      "tensorPath": "https://raw.githubusercontent.com/Zishanm/DataNCS/main/embeddings(4).tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Zishanm/DataNCS/main/embeddingsmMta(3).tsv"
     }
   ]
 }
